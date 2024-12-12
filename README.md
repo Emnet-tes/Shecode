@@ -1,2 +1,3 @@
 # Shecode
- Introduction to version control
+ Introduction to version control  
+ with shecode girls
